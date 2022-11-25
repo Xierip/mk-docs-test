@@ -1,0 +1,8 @@
+site_name: CampaignEditor Docs
+theme: readthedocs
+
+nav:
+  - Home: index.md
+  - Indexation:
+      - Getting Started: indexation/indexation.md
+
